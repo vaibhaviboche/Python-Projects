@@ -11,3 +11,7 @@ This repository contains a collection of small Python projects created for learn
 - **build-a-user-configuration-manager.py** – Manage user settings (add, update, delete).
 - **debug-an-isbn-validator.py** – Validate ISBN-10 codes for books.
 - **rpg_character.py** – Randomly generate RPG character attributes.
+
+\### Author
+
+Created by \*\*Vaibhavi Boche\*\*
